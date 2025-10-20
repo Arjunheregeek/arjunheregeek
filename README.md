@@ -185,7 +185,7 @@ Comprehensive fleet management system with GPS tracking, predictive maintenance 
 
 ### 💭 Dev Quote of the Day
 
-![Quote](https://quotes-github-readme-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderColor=00C7B7)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=default&layout=default&font=default&quoteCategory=programming)
 
 ---
 
