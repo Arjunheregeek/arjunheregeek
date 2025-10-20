@@ -162,51 +162,6 @@ Comprehensive fleet management system with GPS tracking, predictive maintenance 
 
 ---
 
-## 🏆 Achievements & Competitions
-
-<table>
-<tr>
-<th>Achievement</th>
-<th>Event</th>
-<th>Year</th>
-</tr>
-<tr>
-<td>🥈 Finalist</td>
-<td>Code For Bharat - National Level Hackathon</td>
-<td>2024</td>
-</tr>
-<tr>
-<td>🏅 Top 5</td>
-<td>Fetch-a-thon by Fetch.ai</td>
-<td>2024</td>
-</tr>
-<tr>
-<td>🏅 Top 10</td>
-<td>MLSA MIET Hackathon</td>
-<td>2024</td>
-</tr>
-<tr>
-<td>👨‍💻 Team Lead</td>
-<td>Smart India Hackathon - Krishi Jyoti Project</td>
-<td>2024</td>
-</tr>
-</table>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Certified-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-API_Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-</div>
-
----
-
 ## 💻 Coding Profiles
 
 <div align="center">
@@ -219,28 +174,18 @@ Comprehensive fleet management system with GPS tracking, predictive maintenance 
 
 ---
 
-## 🎓 Education
-
-**B.Tech in Computer Science & Engineering (AI & ML)**  
-Model Institute of Engineering & Technology | 2022 - 2026
-
----
-
 <div align="center">
+
+### 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Arjunheregeek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=C9D1D9" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunheregeek&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" alt="GitHub Streak" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunheregeek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=C9D1D9" alt="Top Languages" height="170" />
 
 ### 💭 Dev Quote of the Day
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderColor=00C7B7)
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arjunheregeek/Arjunheregeek/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arjunheregeek/Arjunheregeek/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arjunheregeek/Arjunheregeek/output/github-contribution-grid-snake.svg">
-</picture>
+![Quote](https://quotes-github-readme-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderColor=00C7B7)
 
 ---
 
