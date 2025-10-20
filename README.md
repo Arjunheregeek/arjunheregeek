@@ -34,11 +34,25 @@ I specialize in **Voice AI**, **RAG Systems**, and **Agentic Workflows** — tra
 <td width="100%">
 
 ### 🤖 AI Engineer Intern
-**Stealth AI Startup** | *Mar 2025 - Jul 2025*
+**Stealth AI Startup** | *Oct 2025 - Present*
 
-- Building production-grade AI systems with LangChain, LangGraph, and RAG architectures
-- Developing conversational AI solutions and voice agent systems
-- Working on cutting-edge AI technologies in a fast-paced startup environment
+- Building production-grade AI systems with cutting-edge technologies
+- Developing advanced conversational AI solutions and agentic workflows
+- Working on innovative AI products in a fast-paced startup environment
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 🚀 AI Engineer Intern
+**Zudu AI** | *Mar 2025 - Jul 2025*
+
+- Developed production-grade AI agents using **LangChain**, **LangGraph workflows**, and **RAG** in microservices architecture
+- Designed and deployed **voice AI systems** using **LiveKit** and **PipeCat**, integrating TTS and STT pipelines
+- Built **post-call analysis pipelines** using **Azure Cognitive Services** (speech-to-text, sentiment, entity extraction)
+- Researched and evaluated global **LLM and TTS vendors** for latency, pricing, and integration feasibility
+- Automated workflows with **Apache Airflow** and **n8n**, maintained version control using **Git/GitHub**
 
 </td>
 </tr>
@@ -202,7 +216,7 @@ Comprehensive fleet management system with GPS tracking, predictive maintenance 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Arjunheregeek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=C9D1D9&ring_color=00C7B7" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunheregeek&theme=tokyo-night&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7&sideLabels=00C7B7" alt="GitHub Streak" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunheregeek&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7&sideLabels=00C7B7" alt="GitHub Streak" height="180" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunheregeek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="400" />
 
