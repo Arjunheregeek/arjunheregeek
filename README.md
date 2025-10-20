@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C7B7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Arjun+Gupta;AI+Engineer+%7C+Voice+AI+Specialist;Building+RAG+%26+GraphRAG+Systems;AI+Backend+%7C+Agentic+Workflows" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AI%20%26%20Machine%20Learning%20Engineer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-arjunai.engineer-00C7B7?style=for-the-badge&logoColor=white)](https://arjunai.engineer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-gupta-aps/)
 [![Email](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjun7804garg@gmail.com)
@@ -227,8 +225,6 @@ Comprehensive fleet management system with GPS tracking, predictive maintenance 
 <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=default&layout=default&font=default&quoteCategory=programming" alt="Quote" />
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 *"Building the future of AI, one conversation at a time"*
 
