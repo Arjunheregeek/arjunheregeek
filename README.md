@@ -36,10 +36,6 @@ I specialize in **Voice AI**, **RAG Systems**, and **Agentic Workflows** — tra
 ### 🤖 AI Engineer Intern
 **Stealth AI Startup** | *Oct 2025 - Present*
 
-- Building production-grade AI systems with cutting-edge technologies
-- Developing advanced conversational AI solutions and agentic workflows
-- Working on innovative AI products in a fast-paced startup environment
-
 </td>
 </tr>
 <tr>
@@ -206,21 +202,6 @@ Comprehensive fleet management system with GPS tracking, predictive maintenance 
 ![MongoDB](https://img.shields.io/badge/MongoDB-Certified-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-API_Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Arjunheregeek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=C9D1D9&ring_color=00C7B7" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunheregeek&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7&sideLabels=00C7B7" alt="GitHub Streak" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunheregeek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="400" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Arjunheregeek&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=00C7B7" alt="GitHub Trophies" width="100%"/>
 
 </div>
 
