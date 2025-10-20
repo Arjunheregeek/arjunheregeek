@@ -165,7 +165,7 @@ Comprehensive fleet management system with GPS tracking, predictive maintenance 
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/arjun7804garg/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/arjun7804garg/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/arjun7804garg)
+[![Codolio](https://img.shields.io/badge/Codolio-00C7B7?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/arjunheregeek)
 
 </div>
 
