@@ -19,7 +19,7 @@ I specialize in **Conversational AI**, **Voice Agents**, and **RAG systems** —
 
 ### 💻 Tech Stack
 
-```text
+\`\`\`text
 AI/ML          Python • LangChain • LangGraph • PyTorch • OpenAI • Azure Cognitive Services
 Development    React • FastAPI • Supabase • MongoDB • Apache Airflow
 Voice AI       LiveKit • Deepgram • ElevenLabs
