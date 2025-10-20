@@ -21,6 +21,9 @@
 
 I specialize in **Voice AI**, **RAG Systems**, and **Agentic Workflows** — transforming complex AI concepts into real-world solutions. My expertise spans from architecting multi-agent systems with LangChain/LangGraph to building real-time voice agents with LiveKit and PipeCat.
 
+🔭 **Currently Working On:** Advanced RAG architectures and real-time voice AI systems  
+🌱 **Learning:** Agentic workflows, Multi-agent orchestration, Production AI deployment  
+💡 **Passionate About:** Conversational AI, Voice Agents, and AI-powered automation
 
 ---
 
@@ -234,9 +237,9 @@ Model Institute of Engineering & Technology | 2022 - 2026
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arjunheregeek/Arjunheregeek/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arjunheregeek/Arjunheregeek/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arjunheregeek/Arjunheregeek/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
