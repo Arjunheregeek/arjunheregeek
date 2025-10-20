@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C7B7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Arjun+Gupta;AI+Engineer+%7C+Voice+AI+Specialist;Building+Intelligent+Conversational+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C7B7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Arjun+Gupta;AI+Engineer+%7C+Voice+AI+Specialist;Building+RAG+%26+GraphRAG+Systems;AI+Backend+%7C+Agentic+Workflows" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=AI%20%26%20Machine%20Learning%20Engineer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
@@ -19,7 +19,7 @@
 
 > **AI Engineer Intern @ Stealth AI Startup** | Building production-grade RAG.
 
-I specialize in **Voice AI**, **RAG Systems**, and **Agentic Workflows** — transforming complex AI concepts into real-world solutions. My expertise spans from architecting multi-agent systems with LangChain/LangGraph to building real-time voice agents with LiveKit and PipeCat.
+I specialize in **Voice AI**, **RAG Systems**, **GraphRAG Systems**, and **Agentic Workflows** — transforming complex AI concepts into real-world solutions. My expertise spans from architecting multi-agent systems with LangChain/LangGraph to building real-time voice agents with LiveKit and PipeCat.
 
 
 ---
@@ -184,7 +184,7 @@ Comprehensive fleet management system with GPS tracking, predictive maintenance 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjunheregeek&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=C9D1D9" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjunheregeek&theme=tokyonight&hide_border=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=C9D1D9" alt="Activity Graph" width="100%" />
 
 </td>
 </tr>
