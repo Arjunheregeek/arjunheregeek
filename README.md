@@ -21,9 +21,6 @@
 
 I specialize in **Voice AI**, **RAG Systems**, and **Agentic Workflows** — transforming complex AI concepts into real-world solutions. My expertise spans from architecting multi-agent systems with LangChain/LangGraph to building real-time voice agents with LiveKit and PipeCat.
 
-🔭 **Currently Working On:** Advanced RAG architectures and real-time voice AI systems  
-🌱 **Learning:** Agentic workflows, Multi-agent orchestration, Production AI deployment  
-💡 **Passionate About:** Conversational AI, Voice Agents, and AI-powered automation
 
 ---
 
