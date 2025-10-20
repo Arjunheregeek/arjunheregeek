@@ -176,16 +176,58 @@ Comprehensive fleet management system with GPS tracking, predictive maintenance 
 
 <div align="center">
 
-### 📈 GitHub Stats
+### 📈 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arjunheregeek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=C9D1D9" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunheregeek&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" alt="GitHub Streak" height="170" />
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunheregeek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=C9D1D9" alt="Top Languages" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjunheregeek&theme=tokyonight" alt="Contribution Graph" width="100%" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjunheregeek&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C7B7&line=00C7B7&point=C9D1D9" alt="Activity Graph" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Arjunheregeek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=C9D1D9&include_all_commits=true&custom_title=Arjun's%20GitHub%20Stats" alt="GitHub Stats" width="100%" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunheregeek&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7&sideLabels=00C7B7&dates=C9D1D9" alt="GitHub Streak" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunheregeek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=C9D1D9&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" width="100%" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arjunheregeek&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Arjunheregeek&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=00C7B7" alt="GitHub Trophies" width="100%" />
 
 ### 💭 Dev Quote of the Day
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=default&layout=default&font=default&quoteCategory=programming)
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=default&layout=default&font=default&quoteCategory=programming" alt="Quote" />
 
 ---
 
